@@ -1,0 +1,28 @@
+name: PipsPlaza
+favicon: null
+layout_spectrum: 0.5554691939614713
+typography_spectrum: 0.1384232142008841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.36605300358496606
+  lightness: 0.7439887542277575
+  saturation: 0.99546510563232
+  rhythmicContrast: 0.11792314285412431
+purpose: []
