@@ -1,9 +1,7 @@
-favicon: null
 name: PipsPlaza
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9354839
+typography_spectrum: 0.1182796
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8924731
-  brandStrength: 0.3660530035849661
-  lightness: 0.7795699
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  brandStrength: 0.3660530035849661
+  lightness: 0.7795699
+  saturation: 0.8924731
   rhythmicContrast: 0.265233
-typography_spectrum: 0.1182796
-layout_spectrum: 0.9354839
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
