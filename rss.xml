@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PipsPlaza]]></title>
-        <description><![CDATA[PipsPlaza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[PiPsPlaza]]></title>
+        <description><![CDATA[PiPsPlaza]]></description>
+        <link>https://thegrid.ai/pipsplaza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 14:50:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 14:53:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pipsplaza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77ea8415-7cdb-4f47-a7aa-6774eef4b4f6.jpg">]]></description>
+            <link>https://thegrid.ai/pipsplaza/336c8abb-c040-4a90-9e85-ae04e6e25a50/index.html</link>
+            <guid isPermaLink="false">336c8abb-c040-4a90-9e85-ae04e6e25a50</guid>
+            <pubDate>Fri, 29 Jan 2016 14:52:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This would be the first post of the new PiPsPlaza Website. It's a page holder to test the new website and it's a cool way to play around with the options.</p>]]></description>
-            <link>undefinedede59a17-75ae-4335-9805-a6a50821f72c/index.html</link>
+            <link>https://thegrid.ai/pipsplaza/ede59a17-75ae-4335-9805-a6a50821f72c/index.html</link>
             <guid isPermaLink="false">ede59a17-75ae-4335-9805-a6a50821f72c</guid>
             <pubDate>Fri, 29 Jan 2016 14:49:31 GMT</pubDate>
         </item>
